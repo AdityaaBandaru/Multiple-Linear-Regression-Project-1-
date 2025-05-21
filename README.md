@@ -12,10 +12,10 @@ Trains a Multiple Linear Regression model
 Makes predictions on new data
 
 📚 Dependencies
-Python 3.7+
-numpy
-pandas
-matplotlib
+Python 3.7+,
+numpy,
+pandas,
+matplotlib,
 scikit-learn 
 
 📊 Example
