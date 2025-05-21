@@ -38,3 +38,6 @@ State: The location of the startup (categorical feature)
 
 Profit: The target variable to predict
 
+🧑‍💻 Author
+Adityaa Bandaru
+
